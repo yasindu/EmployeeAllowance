@@ -1,0 +1,15 @@
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\bin\Debug\net8.0\Payroll.Application.deps.json
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\bin\Debug\net8.0\Payroll.Application.dll
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\bin\Debug\net8.0\Payroll.Application.pdb
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\bin\Debug\net8.0\Payroll.Domain.dll
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\bin\Debug\net8.0\Payroll.Domain.pdb
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\Payroll.Application.csproj.AssemblyReference.cache
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\Payroll.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\Payroll.Application.AssemblyInfoInputs.cache
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\Payroll.Application.AssemblyInfo.cs
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\Payroll.Application.csproj.CoreCompileInputs.cache
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\Payroll.Application.csproj.CopyComplete
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\Payroll.Application.dll
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\refint\Payroll.Application.dll
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\Payroll.Application.pdb
+C:\Users\yasindu\Desktop\Payroll.Domain\Payroll.Application\obj\Debug\net8.0\ref\Payroll.Application.dll
